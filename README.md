@@ -1,12 +1,12 @@
 **Native Base WhatsApp Arayüzü**
 
+<p float="left">
+<img src="https://github.com/fikretsefa/nativebase-whatsapp/blob/main/Source/Docs/1.png" width="300" >
 
-<img src="https://github.com/fikretsefa/nativebase-whatsapp/blob/main/Source/Docs/1.png" width="100" >
+<img src="https://github.com/fikretsefa/nativebase-whatsapp/blob/main/Source/Docs/2.png" width="300" >
 
-<img src="https://github.com/fikretsefa/nativebase-whatsapp/blob/main/Source/Docs/2.png" width="100" >
-
-<img src="https://github.com/fikretsefa/nativebase-whatsapp/blob/main/Source/Docs/3.png" width="100" >
-
+<img src="https://github.com/fikretsefa/nativebase-whatsapp/blob/main/Source/Docs/3.png" width="300" >
+</p>
 
 **NativeBase**
 <br>
