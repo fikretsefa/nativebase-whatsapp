@@ -1,11 +1,11 @@
 **Native Base WhatsApp Arayüzü**
 
 
-<img src="https://hizliresim.com/rgBEvc" width="100" >
+<img src="https://github.com/fikretsefa/nativebase-whatsapp/blob/main/Source/Docs/1.png" width="100" >
 
-<img src="https://hizliresim.com/jQK3dj" width="100" >
+<img src="https://github.com/fikretsefa/nativebase-whatsapp/blob/main/Source/Docs/2.png" width="100" >
 
-<img src="https://hizliresim.com/jQK3dj" width="100" >
+<img src="https://github.com/fikretsefa/nativebase-whatsapp/blob/main/Source/Docs/3.png" width="100" >
 
 
 **NativeBase**
