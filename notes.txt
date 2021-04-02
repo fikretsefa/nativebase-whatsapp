@@ -1,0 +1,17 @@
+NativeBase
+İçinde hazır komponentler bulunan bir ön yüz tasarım kütüphanesidir. 
+Nativebase sayesinde daha az kod yazarak daha kullanışlı uygulamalar yapabiliriz.
+Bu proje Nativebase kolaylığını göstermek için yapılmıştır.
+
+npm install native-base --save veya yarn add native-base --save
+ile projenize dahil edebilirsiniz.
+
+randommeUser
+Şifreden adrese rastegele kullanıcı bilgileri edinebileceğiniz servis sağlar.
+Örnek: https://randomuser.me/api/?page=1&results=10
+
+
+ShemaColor
+Birçok uygulama ve tasarımın renk paletine ulaşabileceğiniz, tasarımcıya büyük 
+katkılar sağlayan websitesidir.
+schemacolor.com ile erişebilirsiniz.
